@@ -1,3 +1,8 @@
+# Caution!!!
+
+This fork has changed the default branch to `ssl_ca_file_clusther_health`!
+This needs to stay as long as the branch has not been merged to master.
+
 ## Sensu-Plugins-rabbitmq
 
 [![Build Status](https://travis-ci.org/sensu-plugins/sensu-plugins-rabbitmq.svg?branch=master)](https://travis-ci.org/sensu-plugins/sensu-plugins-rabbitmq)
